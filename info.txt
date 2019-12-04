@@ -8,8 +8,5 @@ thiskang info
 444444
 分支game的修改 who am i?
 分支game的修改 who are you?
-<<<<<<< HEAD
-=======
 分支game
-
->>>>>>> game
+测试啦哈哈
